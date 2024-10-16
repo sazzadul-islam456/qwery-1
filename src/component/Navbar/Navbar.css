@@ -1,0 +1,36 @@
+#navbar {
+    padding-top: 35px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+     /* Added background color */
+  }
+  
+  .logo {
+    width: 30%;
+    height: 100px;
+  }
+  
+  #navbar .nav-items {
+    width: 70%;
+    height: 100px;
+  }
+  #navbar .navbar-wrapper {
+    display: flex;
+  }
+  #navbar .nav-items ul {
+    display: flex;
+    justify-content: flex-end;
+  }
+  #navbar .nav-items ul li a {
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    color: white;
+    font-weight: 600;
+    margin-left: 60px;
+    transition: color 0.3s; /* Smooth transition for color change */
+  }
+  #navbar .nav-items ul li a:hover {
+    color: black;
+  }

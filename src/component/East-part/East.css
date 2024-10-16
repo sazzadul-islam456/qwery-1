@@ -1,0 +1,54 @@
+#east {
+    background-color: black;
+    margin-top: 200px;
+    margin-bottom: 250px;
+  }
+  
+  #east .east-wrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  #east .east-wrapper .east-img {
+    width: 582px;
+    height: 713px;
+  }
+  
+  #east .east-wrapper .east-details .sm-text {
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: 6px;
+    color: #FFC178;
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+  }
+  #east .east-wrapper .east-details .title {
+    font-family: "Open Sans", sans-serif;
+    color: white;
+    font-weight: 700;
+    font-size: 64px;
+    width: 496px;
+    text-transform: uppercase;
+  }
+  #east .east-wrapper .east-details .l-text {
+    font-family: "Open Sans", sans-serif;
+    padding-bottom: 66px;
+    width: 497px;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 32px;
+    text-transform: uppercase;
+  }
+  #east .east-d {
+    font-family: "Open Sans", sans-serif;
+    display: flex;
+    align-items: center;
+  }
+  #east a {
+    font-family: "Open Sans", sans-serif;
+    color: #FFC178;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+  }

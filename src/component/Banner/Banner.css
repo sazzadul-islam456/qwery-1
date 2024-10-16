@@ -1,0 +1,32 @@
+#banner {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 462px 0;
+    background-color: black; 
+}
+
+#banner .banner-wrapper p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    color: #FFC178;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+}
+
+#banner .banner-wrapper h1 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 96px;
+    color: white;
+    font-weight: 700;
+    padding-top: 37px;
+}
+
+#banner .banner-wrapper h1 span {
+    font-family: "Open Sans", sans-serif;
+    font-size: 88px;
+    color: white;
+    font-weight: 400;
+    display: block;
+}

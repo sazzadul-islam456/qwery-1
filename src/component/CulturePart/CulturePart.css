@@ -1,0 +1,54 @@
+#Culture {
+    background-color: black;
+    padding-top: 295px;
+    padding-bottom: 199px;
+  }
+  #Culture .Culture-wrapper .Culture-img img {
+    width: 624px;
+    height: 799px;
+  }
+  .Culture-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  #Culture .Culture-wrapper .Culture-details h6{
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFC178;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+  }
+  #Culture .Culture-wrapper .Culture-details h4{
+    font-family: "Open Sans", sans-serif;
+    font-size: 64px;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+    width: 655px;
+    margin-top: 19px;
+    line-height: 87px;
+    
+   
+  }
+  .Culture-details p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    color: #fff;
+    text-transform: uppercase;
+    width: 655px;
+    line-height: 32px;
+    font-size: 400;
+    margin-bottom: 47px;
+    margin-top: 19px;
+    font-weight: 18px;
+  }
+  #Culture .Culture-wrapper .Culture-details a {
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    font-weight: bold; 
+    color: #FFC178;
+    text-transform: uppercase;
+  }

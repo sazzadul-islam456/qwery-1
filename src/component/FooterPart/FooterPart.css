@@ -1,0 +1,92 @@
+#footer .footer-top {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  #footer .footer-top-right {
+    display: flex;
+    align-items: center;
+  }
+  
+  #footer .footer-top-right p {
+    font-family: "Open Sans", sans-serif;
+    color: white;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+    margin-right: 18px;
+  }
+  
+  #footer .footer-top-right a {
+    font-family: "Open Sans", sans-serif;
+    background: #FFA343;
+    color: black;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 23px;
+    padding: 18px 67px;
+    border-radius: 10px;
+  }
+  
+  #footer .footer-second-one h4 {
+    font-family: "Open Sans", sans-serif;
+    color: #fff;
+    width: 405px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 49px;
+  }
+  
+  #footer .footer-second-one p {
+    font-family: "Open Sans", sans-serif;
+    color: #fff;
+    width: 140px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+  }
+  #footer .footer-second-one img {
+    padding-top: 48px;
+  }
+  #footer .footer-second-one {
+    margin-right: 275px;
+  }
+  #footer .footer-second-two {
+    margin-right: 85px;
+  }
+  #footer .footer-second-two h4 {
+    color: #FFA343;
+  }
+  #footer .footer-second-two p {
+    color: white;
+  }
+  #footer .footer-second-three {
+    margin-right: 138px;
+  }
+  #footer .footer-second-three h4 {
+    color: #FFA343;
+  }
+  #footer .footer-second-three p {
+    color: white;
+  }
+  #footer .footer-second-four h4 {
+    color: #FFA343;
+  }
+  #footer .footer-second-four p {
+    color: white;
+  }
+  #footer .footer-second {
+    display: flex;
+  }
+  
+  #footer .footer-second {
+    padding-top: 81px;
+  }
+  .footer-bottom {
+    padding-top: 150px;
+    padding-bottom: 2px;
+  }
+  .footer-bottom p {
+    text-align: center;
+    color: #fff;
+  }

@@ -1,0 +1,51 @@
+#together {
+    background: black;
+  }
+  .together-wrapper {
+    background: url(../image/Banner2.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 250px;
+    padding-bottom: 32px;
+  }
+  #together .together-content {
+    text-align: center;
+  }
+  #together .together-content h6 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFC178;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+  }
+  #together .together-content h4 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 64px;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+    width: 932px;
+    margin-top: 13px;
+    margin-bottom: 14px;
+    line-height: 87px;
+    margin: 0 auto;
+  }
+  #together .together-content p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px; 
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 32px;
+    width: 893px;
+    padding-bottom: 26px;
+    margin: 0 auto;
+  }
+  #together .together-content a {
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    font-weight: bold; 
+    color: #FFC178;
+    text-transform: uppercase;
+  }
